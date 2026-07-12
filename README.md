@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/gahan864/dsa/tree/master/2685-count-the-number-of-complete-components) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/gahan864/dsa/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/gahan864/dsa/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/gahan864/dsa/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
