@@ -20,10 +20,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gahan864/dsa/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/gahan864/dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gahan864/dsa/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/gahan864/dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
